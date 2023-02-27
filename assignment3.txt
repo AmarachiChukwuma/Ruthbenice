@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head></head>
+	<body style='background-color: orange'>
+		<h1>FILL IN THE FORM</h1>
+		<form style='background-color: black'>
+			<input required type='text'placeholder='full name'><br>
+		<select>
+			<option>+234 Nigeria</options>
+			<option>+1 Canada</options>
+			<option>+44 London</options>
+			<option>+1 America</options>
+		</select>	
+			<input required type='number'placeholder='number'><br>
+			<input required type='password'placeholder='password'><br>
+			<input type='submit'>
+		</form>
+	</body>
+</html>
