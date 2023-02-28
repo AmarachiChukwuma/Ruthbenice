@@ -1,0 +1,43 @@
+<html>
+<body>
+	<div style='
+	background-color: blue;
+	width: 100vw;
+	height: 100vh;
+
+	'>
+		<div style='
+		background-color: purple;
+		width: 90vw;
+		height: 90vh;
+
+		'>
+			<div style=' 
+			background-color: yellow; 
+			width: 80vw;
+			height: 80vh;
+
+			'> 
+				<div style=' 
+				background-color: green; 
+				width: 70vw;
+				height: 70vh;
+
+				'>
+						 
+					<div style=' 
+					background-color: red; 
+					width: 60vw;
+					height: 60vh;
+
+					'>
+						<div style=' 
+						background-color: orange; 
+						width: 50vw;
+						height: 50vh;
+
+						'>
+						
+						
+</body>
+</html>
